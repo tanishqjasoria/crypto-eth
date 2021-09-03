@@ -7,6 +7,7 @@ This repo starts with groups, elliptic curves and build upto kate commitments an
 
 ## Elliptic Curve Cryptography
 - [A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [Elliptic Curve Cryptography: a gentle introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
 ## Elliptic Curve Pairings
 - [Exploring Elliptic Curve Pairings - Vitalik](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
@@ -51,3 +52,14 @@ This repo starts with groups, elliptic curves and build upto kate commitments an
 - [go-verkle](https://github.com/gballet/go-verkle)
 - [go-kzg](https://github.com/protolambda/go-kzg)
 - [rust-verkle](https://github.com/crate-crypto/rust-verkle)
+
+
+# Notes - ECC
+
+- ECC - very powerful crypto primitves
+- high level of security while maintaining performance
+- public key cryptographic system - set of algorithms that is easy to process in one direction, but difficult to undo. 
+- RSA: easy algorithm - multiplies two prime numbers. difficult pair algorithm is factoring the product of the multiplication into its two component primes. 
+- Algorithms — easy in one direction, hard the other — are known as Trap door Functions. 
+- Finding a good Trapdoor Function is critical to making a secure public key cryptographic system. 
+- Simplistically: the bigger the spread between the difficulty of going one direction in a Trapdoor Function and going the other, the more secure a cryptographic system based on it will be.
