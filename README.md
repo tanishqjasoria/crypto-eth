@@ -24,6 +24,10 @@ This repo starts with groups, elliptic curves and build upto kate commitments an
 - [PCS multiproofs using random evaluation](https://dankradfeist.de/ethereum/2021/06/18/pcs-multiproofs.html)
 - [Kate-Zaverucha-Goldberg (KZG) Constant-Sized Polynomial Commitments](https://alinush.github.io/2020/05/06/kzg-polynomial-commitments.html)
 
+## Pederson + IPA
+
+- [Inner Product Arguments](https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html)
+
 ## Verkle Trees
 - [Verkle Trees - Original Paper](https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf)
 - [Verkle Trees - Original Paper - Slides](https://math.mit.edu/research/highschool/primes/materials/2019/conf/12-5-Kuszmaul.pdf)
