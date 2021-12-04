@@ -28,15 +28,26 @@ This repo starts with groups, elliptic curves and build upto kate commitments an
 
 - [Inner Product Arguments](https://dankradfeist.de/ethereum/2021/07/27/inner-product-arguments.html)
 
-## Verkle Trees
+## Verkle Trees and State Expiry
 - [Verkle Trees - Original Paper](https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf)
 - [Verkle Trees - Original Paper - Slides](https://math.mit.edu/research/highschool/primes/materials/2019/conf/12-5-Kuszmaul.pdf)
 - [Verkle Trees - Vitalik](https://vitalik.ca/general/2021/06/18/verkle.html)
 - [Verkle trie for Eth1 state](https://dankradfeist.de/ethereum/2021/06/18/verkle-trie-for-eth1.html)
 - [Verkle Tree - EIP](https://notes.ethereum.org/@vbuterin/verkle_tree_eip)
+- [Verkle Tree Structure](https://blog.ethereum.org/2021/12/02/verkle-tree-structure/)
+- [State Expiry Summary](https://notes.ethereum.org/@vbuterin/state_expiry_eip)
+- [Verkle Tree Summary (Integration)](https://notes.ethereum.org/@vbuterin/verkle_tree_eip)
+- [Verkle Tree Structure](https://blog.ethereum.org/2021/12/02/verkle-tree-structure/)
+- [Verkle Tree Summary (Integration)](https://notes.ethereum.org/@vbuterin/verkle_tree_eip)
+
+### ETH Related Roadmaps
+- [Why it's so important to go stateless](https://dankradfeist.de/ethereum/2021/02/14/why-stateless.html)
+- [Ethereum statelessness roadmap](https://notes.ethereum.org/Yn_mwNa2SeeQHnKsRgekKg)
+- [A state expiry and statelessness roadmap](https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal#:~:text=Two%20paths%20to%20a%20solution,witnesses%20to%20revive%20expired%20state)
+- [State Expiry Summary](https://notes.ethereum.org/@vbuterin/state_expiry_eip)
 
 ### MISC
-
+- [Impact of address space compression proposal (20 byte address: 4 byte prefix, 2 byte period & 14 byte hash), loses address collision resistance](https://ethresear.ch/t/what-would-break-if-we-lose-address-collision-resistance/11356)
 - [Fast Fourier Transforms - Vitalik](https://vitalik.ca/general/2019/05/12/fft.html)
 - [Stateless Ethereum Meeting 13: Verkle Trees](https://www.youtube.com/watch?v=1hTscLYsaIg)
 - [State Expiry - EIP](https://notes.ethereum.org/@vbuterin/state_expiry_eip)
